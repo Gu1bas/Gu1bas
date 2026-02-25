@@ -16,11 +16,5 @@ Estudante de **Sistemas de Informação** na IFPR - Ivaiporã e Desenvolvedor Fu
 
 ---
 
-### 📊 Minhas Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gu1bas&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1bas&layout=compact&theme=dracula)
-
----
-
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cordeiro-de-godoy-829879356/)
