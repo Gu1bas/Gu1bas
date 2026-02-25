@@ -22,13 +22,12 @@ Estudante de **Sistemas de Informação** na IFPR - Ivaiporã. Sou um desenvolve
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
+### 📊 Estatísticas
 
-### 📊 Estatísticas e Tecnologias
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gu1bas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1bas&layout=compact&theme=dracula" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gu1bas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1bas&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="150" />
+</p>
 ---
 
 ### 📫 Como me encontrar
