@@ -25,8 +25,8 @@ Estudante de **Sistemas de Informação** na IFPR - Ivaiporã. Sou um desenvolve
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gu1bas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1bas&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gu1bas&show_icons=true&theme=dracula" alt="Estatísticas" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gu1bas&layout=compact&theme=dracula" alt="Linguagens" height="150" />
 </p>
 ---
 
