@@ -23,7 +23,6 @@ Estudante de **Sistemas de Informação** na IFPR - Ivaiporã. Sou um desenvolve
 
 ---
 
-### 📊 Minhas Estatísticas
 ### 📊 Estatísticas e Tecnologias
 
 <div align="center">
