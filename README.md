@@ -23,4 +23,4 @@ Estudante de **Sistemas de Informação** na IFPR - Ivaiporã e Desenvolvedor Fu
 ---
 
 ### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-cordeiro-de-godoy-829879356/)
