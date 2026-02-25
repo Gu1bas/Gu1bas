@@ -1,7 +1,7 @@
  # Olá, eu sou o Guilherme! 👋
 
 ### 🚀 Sobre mim
-Estudante de **Sistemas de Informação** na IFPR - Ivaiporã. Sou um desenvolvedor com experiência básica em  **JavaScript**, com experiência básica em bancos de dados relacionais e atualmente expandindo meus horizontes com **Java**.
+Estudante de **Sistemas de Informação** na IFPR - Ivaiporã 2ºano. Sou um desenvolvedor com experiência básica em  **JavaScript**, com experiência básica em bancos de dados relacionais e atualmente expandindo meus horizontes com **Java**.
 
 - 🎓 Cursando Sistemas de Informação.
 - 💻 Projetos ativos com **JavaScript (React/Node)** e **PostgreSQL**.
