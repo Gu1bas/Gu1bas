@@ -4,7 +4,6 @@
 Estudante de **Sistemas de Informação** na IFPR - Campus Ivaiporã 3° Semestre. Sou um desenvolvedor com experiência básica em  **JavaScript**, com experiência básica em bancos de dados relacionais e atualmente expandindo meus horizontes com **Java**.
 
 - 🎓 Cursando Sistemas de Informação.
-- 💻 Projetos ativos com **JavaScript (React/Node)** e **PostgreSQL**.
 - ☕ No momento, focado em aprender **Java** e **Spring Boot** para o backend.
 - 🤖 Interessado em IA Generativa e integração de APIs.
 
