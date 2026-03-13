@@ -4,7 +4,7 @@
 Estudante de **Sistemas de Informação** na IFPR - Campus Ivaiporã 3° Semestre. Sou um desenvolvedor com experiência básica em  **JavaScript**, com experiência básica em bancos de dados relacionais e atualmente expandindo meus horizontes com **Java**.
 
 - 🎓 Cursando Sistemas de Informação.
-- ☕ No momento, focado em aprender **Java** e **Spring Boot** para o backend.
+- ☕ No momento, focado em aprender **Java**.
 - 🤖 Interessado em IA Generativa e integração de APIs.
 
 ---
@@ -18,7 +18,6 @@ Estudante de **Sistemas de Informação** na IFPR - Campus Ivaiporã 3° Semestr
 
 **Em Aprendizado (Learning):**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 ### 📊 Estatísticas
