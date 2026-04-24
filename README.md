@@ -5,7 +5,7 @@ Estudante de **Sistemas de Informação** na IFPR - Campus Ivaiporã 3° Semestr
 
 - 🎓 Cursando Sistemas de Informação.
 - ☕ No momento, focado em aprender **Java**.
-- 🤖 Interessado em IA Generativa e integração de APIs.
+- 🤖 Interessado em IA Generativa
 
 ---
 
