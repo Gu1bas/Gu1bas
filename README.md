@@ -11,8 +11,8 @@ Estudante de **Sistemas de Informação** no IFPR (Campus Ivaiporã) - 3º Semes
 ---
 
 ### 🏆 Projetos em Destaque
-*   **[BILI - Biblioteca Livre](link_do_repositorio_bili_aqui):** Modelagem e lógica de um sistema de gestão de biblioteca em equipe, utilizando PostgreSQL.
-*   **[Laboratório de POO (Java)](link_do_repositorio_poo_aqui):** Repositório focado na aplicação prática de Herança, Polimorfismo e Encapsulamento em simulações de sistemas corporativos, hardwares e games.
+*   **[BILI - Biblioteca Livre](https://github.com/Gu1bas/Bili-Project):** Modelagem e lógica de um sistema de gestão de biblioteca em equipe, utilizando PostgreSQL.
+*   **[Laboratório de POO (Java)](https://github.com/Gu1bas/exercicios-poo-java):** Repositório focado na aplicação prática de Herança, Polimorfismo e Encapsulamento em simulações de sistemas corporativos, hardwares e games.
 
 ---
 
