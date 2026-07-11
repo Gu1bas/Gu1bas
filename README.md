@@ -1,11 +1,18 @@
  # Olá, eu sou o Guilherme! 👋
 
 ### 🚀 Sobre mim
-Estudante de **Sistemas de Informação** na IFPR - Campus Ivaiporã 3° Semestre. Sou um desenvolvedor com experiência básica em  **JavaScript**, com experiência básica em bancos de dados relacionais e atualmente expandindo meus horizontes com **Java**.
+Estudante de **Sistemas de Informação** no IFPR (Campus Ivaiporã) - 3º Semestre. Busco oportunidades como **Estagiário de Desenvolvimento de Software ou Suporte Técnico**, unindo minha base em código com conhecimentos práticos em montagem e manutenção de computadores.
 
-- 🎓 Cursando Sistemas de Informação.
-- ☕ No momento, focado em aprender **Java**.
-- 🤖 Interessado em IA Generativa
+- 🎓 Cursando Bacharelado em Sistemas de Informação.
+- 💻 Focado no desenvolvimento prático com **JavaScript, Java (POO)** e modelagem de banco de dados com **PostgreSQL**.
+- 🤝 Desenvolvedor colaborativo, com experiência em projetos em equipe como o sistema **BILI (Biblioteca Livre)**.
+- 🤖 Interessado em IA Generativa e inovação tecnológica.
+
+---
+
+### 🏆 Projetos em Destaque
+*   **[BILI - Biblioteca Livre](link_do_repositorio_bili_aqui):** Modelagem e lógica de um sistema de gestão de biblioteca em equipe, utilizando PostgreSQL.
+*   **[Laboratório de POO (Java)](link_do_repositorio_poo_aqui):** Repositório focado na aplicação prática de Herança, Polimorfismo e Encapsulamento em simulações de sistemas corporativos, hardwares e games.
 
 ---
 
@@ -17,13 +24,11 @@ Estudante de **Sistemas de Informação** na IFPR - Campus Ivaiporã 3° Semestr
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Backend:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Banco de Dados:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Em Aprendizado (Learning):**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 ### 📊 Estatísticas
@@ -32,6 +37,7 @@ Estudante de **Sistemas de Informação** na IFPR - Campus Ivaiporã 3° Semestr
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gu1bas&show_icons=true&theme=dracula" alt="Estatísticas" height="150" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gu1bas&layout=compact&theme=dracula" alt="Linguagens" height="150" />
 </p>
+
 ---
 
 ### 📫 Como me encontrar
