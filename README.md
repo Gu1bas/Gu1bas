@@ -1,7 +1,7 @@
  # Olá, eu sou o Guilherme
 
 ### Sobre mim
-Estudante de **Sistemas de Informação** no IFPR (Campus Ivaiporã) - 3º Semestre. Busco oportunidades como **Estagiário de Desenvolvimento de Software ou Suporte Técnico**, unindo minha base em código com conhecimentos práticos em montagem e manutenção de computadores.
+Estudante de **Sistemas de Informação** no IFPR (Campus Ivaiporã) - 4º Semestre. Busco oportunidades como **Estagiário de Desenvolvimento de Software ou Suporte Técnico**, unindo minha base em código com conhecimentos práticos em montagem e manutenção de computadores.
 
 - Cursando Bacharelado em Sistemas de Informação.
 - Focado no desenvolvimento prático com **JavaScript, Java (POO)** e modelagem de banco de dados com **PostgreSQL**.
