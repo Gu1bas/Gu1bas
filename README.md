@@ -1,22 +1,22 @@
- # Olá, eu sou o Guilherme! 👋
+ # Olá, eu sou o Guilherme
 
-### 🚀 Sobre mim
+### Sobre mim
 Estudante de **Sistemas de Informação** no IFPR (Campus Ivaiporã) - 3º Semestre. Busco oportunidades como **Estagiário de Desenvolvimento de Software ou Suporte Técnico**, unindo minha base em código com conhecimentos práticos em montagem e manutenção de computadores.
 
-- 🎓 Cursando Bacharelado em Sistemas de Informação.
-- 💻 Focado no desenvolvimento prático com **JavaScript, Java (POO)** e modelagem de banco de dados com **PostgreSQL**.
-- 🤝 Desenvolvedor colaborativo, com experiência em projetos em equipe como o sistema **BILI (Biblioteca Livre)**.
-- 🤖 Interessado em IA Generativa e inovação tecnológica.
+- Cursando Bacharelado em Sistemas de Informação.
+- Focado no desenvolvimento prático com **JavaScript, Java (POO)** e modelagem de banco de dados com **PostgreSQL**.
+- Desenvolvedor colaborativo, com experiência em projetos em equipe como o sistema **BILI (Biblioteca Livre)**.
+- Interessado em IA Generativa e inovação tecnológica.
 
 ---
 
-### 🏆 Projetos em Destaque
+### Projetos em Destaque
 *   **[BILI - Biblioteca Livre](https://github.com/Gu1bas/Bili-Project):** Modelagem e lógica de um sistema de gestão de biblioteca em equipe, utilizando PostgreSQL.
 *   **[Laboratório de POO (Java)](https://github.com/Gu1bas/exercicios-poo-java):** Repositório focado na aplicação prática de Herança, Polimorfismo e Encapsulamento em simulações de sistemas corporativos, hardwares e games.
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,7 +31,7 @@ Estudante de **Sistemas de Informação** no IFPR (Campus Ivaiporã) - 3º Semes
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-### 📊 Estatísticas
+### Estatísticas
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gu1bas&show_icons=true&theme=dracula" alt="Estatísticas" height="150" />
@@ -40,5 +40,5 @@ Estudante de **Sistemas de Informação** no IFPR (Campus Ivaiporã) - 3º Semes
 
 ---
 
-### 📫 Como me encontrar
+### Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cordeiro-de-godoy-829879356/)
