@@ -24,14 +24,6 @@ Estudante de **Sistemas de Informação** no IFPR (Campus Ivaiporã) - 4º Semes
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-### Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gu1bas&show_icons=true&theme=dracula" alt="Estatísticas" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gu1bas&layout=compact&theme=dracula" alt="Linguagens" height="150" />
-</p>
-
----
 
 ### Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cordeiro-de-godoy-829879356/)
