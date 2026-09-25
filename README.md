@@ -51,6 +51,15 @@
 
 ---
 
+### ⭐ Projetos em Destaque
+| Projeto | Descrição | Tecnologias | Links |
+| :--- | :--- | :--- | :--- |
+| 📚 **BILI** | Sistema de Gestão de Biblioteca Municipal para Cândido de Abreu. | `Node.js` `PostgreSQL` `JavaScript` | [Repositório](https://github.com/Gu1bas/Bili-Project) |
+| 🍻 **Pint of Science** | Portal informativo para o festival mundial de divulgação científica. | `HTML5` `CSS3` `GitHub Pages` | [Repositório](https://github.com/Gu1bas/SItePintOfScience) |
+| 🎮 **GameVerse** | Interface imersiva e responsiva focada no universo gamer. | `HTML5` `CSS3` `Design` | [Repositório](https://github.com/Gu1bas/InterfaceGameVerse) |
+| ☕ **Exercícios POO Java** | Exercícios práticos aplicando conceitos de Orientação a Objetos em Java. | `Java` `POO` | [Repositório](https://github.com/Gu1bas/exercicios-poo-java) |
+---
+
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
@@ -60,16 +69,8 @@
 
 ---
 
-### 🐍 Jogo da Cobrinha (Contribuições)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gu1bas/Gu1bas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gu1bas/Gu1bas/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gu1bas/Gu1bas/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-<div align="center">
-  <sub>Desenvolvido com carinho por <b>Guilherme Godoy</b>. Feito para aprender, evoluir e compartilhar! 🚀</sub>
-</div>
