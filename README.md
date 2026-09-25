@@ -34,7 +34,7 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,postgres,html,css,git,github,vscode,linux" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,postgres,html,css,git,github,vscode,antigravity" alt="Tech Stack Icons" />
 </div>
 
 <br>
