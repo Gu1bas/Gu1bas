@@ -63,8 +63,8 @@
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gu1bas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1bas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="150" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Gu1bas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gu1bas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="150" alt="Top Langs" />
 </div>
 
 ---
