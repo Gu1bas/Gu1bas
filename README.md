@@ -3,7 +3,7 @@
   # Olá, eu sou o Guilherme! 👋
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+(IFPR);Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Java+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+JavaScript;Entusiasta+de+Tecnologia+e+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+(IFPR);Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Java+%E2%80%A2+PostgreSQL+%E2%80%A2+JavaScript;Entusiasta+de+Tecnologia+e+IA" alt="Typing SVG" />
   </a>
 
   <p align="center">
