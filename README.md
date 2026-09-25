@@ -28,7 +28,6 @@
 - 🎓 Cursando **Bacharelado em Sistemas de Informação** no Instituto Federal do Paraná (IFPR - Campus Ivaiporã).
 - 🛠️ Experiência prática na construção de aplicações integrando **Frontend**, **Backend em Node.js** e bancos relacionais com **PostgreSQL**.
 - ☕ Estudando a fundo **Java com Orientação a Objetos** e boas práticas de arquitetura de software.
-- 🤝 Apaixonado por trabalho em equipe e projetos práticos (como o sistema **BILI - Biblioteca Livre**).
 - 💡 Aberto a oportunidades de **Estágio em Desenvolvimento de Software** ou **Suporte Técnico/TI**.
 
 ---
@@ -45,22 +44,11 @@
   <summary><b>🔍 Ver detalhes por categoria</b></summary>
   <br>
 
-- **Linguagens & Backend:** Java, JavaScript (ES6+), Node.js
-- **Frontend & Web:** HTML5 Semântico, CSS3, DOM Manipulation, Design Responsivo
+- **Linguagens & Backend:** Java, JavaScript (ES6+).
+- **Frontend & Web:** HTML5 Semântico, CSS3, DOM Manipulation.
 - **Banco de Dados:** PostgreSQL, Modelagem Relacional, Consultas SQL
 - **Ferramentas & Ambiente:** Git, GitHub, VS Code, Hardware & Manutenção de Computadores
 </details>
-
----
-
-### ⭐ Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias | Links |
-| :--- | :--- | :--- | :--- |
-| 📚 **BILI** | Sistema de Gestão de Biblioteca Municipal para Cândido de Abreu. | `Node.js` `PostgreSQL` `JavaScript` | [Repositório](https://github.com/Gu1bas/Bili-Project) |
-| 🍻 **Pint of Science** | Portal informativo para o festival mundial de divulgação científica. | `HTML5` `CSS3` `GitHub Pages` | [Repositório](https://github.com/Gu1bas/SItePintOfScience) |
-| 🎮 **GameVerse** | Interface imersiva e responsiva focada no universo gamer. | `HTML5` `CSS3` `Design` | [Repositório](https://github.com/Gu1bas/InterfaceGameVerse) |
-| ☕ **Exercícios POO Java** | Exercícios práticos aplicando conceitos de Orientação a Objetos em Java. | `Java` `POO` | [Repositório](https://github.com/Gu1bas/exercicios-poo-java) |
 
 ---
 
