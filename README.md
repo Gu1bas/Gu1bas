@@ -46,7 +46,7 @@
 - **Linguagens & Backend:** Java, JavaScript (ES6+).
 - **Frontend & Web:** HTML5 Semântico, CSS3, DOM Manipulation.
 - **Banco de Dados:** PostgreSQL, Modelagem Relacional, Consultas SQL
-- **Ferramentas & Ambiente:** Git, GitHub, VS Code, Hardware & Manutenção de Computadores
+- **Ferramentas & Ambiente:** Git, GitHub, VS Code, Antigravity Hardware & Manutenção de Computadores
 </details>
 
 ---
