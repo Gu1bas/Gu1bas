@@ -26,7 +26,6 @@
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Cursando **Bacharelado em Sistemas de Informação** no Instituto Federal do Paraná (IFPR - Campus Ivaiporã).
-- 🛠️ Experiência prática na construção de aplicações integrando **Frontend**, **Backend em Node.js** e bancos relacionais com **PostgreSQL**.
 - ☕ Estudando a fundo **Java com Orientação a Objetos** e boas práticas de arquitetura de software.
 - 💡 Aberto a oportunidades de **Estágio em Desenvolvimento de Software** ou **Suporte Técnico/TI**.
 
