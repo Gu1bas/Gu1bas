@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Olá, eu sou o Guilherme! 👋
+  # Olá, eu sou o Guilherme
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+(IFPR);Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Java+%E2%80%A2+PostgreSQL+%E2%80%A2+JavaScript;Entusiasta+de+Tecnologia+e+IA" alt="Typing SVG" />
@@ -23,15 +23,15 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
-- 🎓 Cursando **Bacharelado em Sistemas de Informação** no Instituto Federal do Paraná (IFPR - Campus Ivaiporã).
-- ☕ Estudando a fundo **Java com Orientação a Objetos** e boas práticas de arquitetura de software.
-- 💡 Aberto a oportunidades de **Estágio em Desenvolvimento de Software** ou **Suporte Técnico/TI**.
+- Cursando **Bacharelado em Sistemas de Informação** no Instituto Federal do Paraná (IFPR - Campus Ivaiporã).
+- Estudando a fundo **Java com Orientação a Objetos** e boas práticas de arquitetura de software.
+- Aberto a oportunidades de **Estágio em Desenvolvimento de Software** ou **Suporte Técnico/TI**.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,postgres,html,css,git,github,vscode,antigravity" alt="Tech Stack Icons" />
@@ -51,16 +51,16 @@
 
 ---
 
-### ⭐ Projetos em Destaque
+### Projetos em Destaque
 | Projeto | Descrição | Tecnologias | Links |
 | :--- | :--- | :--- | :--- |
-| 📚 **BILI** | Sistema de Gestão de Biblioteca Municipal para Cândido de Abreu. | `Node.js` `PostgreSQL` `JavaScript` | [Repositório](https://github.com/Gu1bas/Bili-Project) |
-| 🍻 **Pint of Science** | Portal informativo para o festival mundial de divulgação científica. | `HTML5` `CSS3` `GitHub Pages` | [Repositório](https://github.com/Gu1bas/SItePintOfScience) |
-| 🎮 **GameVerse** | Interface imersiva e responsiva focada no universo gamer. | `HTML5` `CSS3` `Design` | [Repositório](https://github.com/Gu1bas/InterfaceGameVerse) |
-| ☕ **Exercícios POO Java** | Exercícios práticos aplicando conceitos de Orientação a Objetos em Java. | `Java` `POO` | [Repositório](https://github.com/Gu1bas/exercicios-poo-java) |
+| **BILI** | Sistema de Gestão de Biblioteca Municipal para Cândido de Abreu. | `Node.js` `PostgreSQL` `JavaScript` | [Repositório](https://github.com/Gu1bas/Bili-Project) |
+| **Pint of Science** | Portal informativo para o festival mundial de divulgação científica. | `HTML5` `CSS3` `GitHub Pages` | [Repositório](https://github.com/Gu1bas/SItePintOfScience) |
+| **GameVerse** | Interface imersiva e responsiva focada no universo gamer. | `HTML5` `CSS3` `Design` | [Repositório](https://github.com/Gu1bas/InterfaceGameVerse) |
+| **Exercícios POO Java** | Exercícios práticos aplicando conceitos de Orientação a Objetos em Java. | `Java` `POO` | [Repositório](https://github.com/Gu1bas/exercicios-poo-java) |
 ---
 
-### 📊 Estatísticas no GitHub
+### Estatísticas no GitHub
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Gu1bas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="GitHub Stats" />
