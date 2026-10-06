@@ -51,15 +51,6 @@
 
 ---
 
-### Projetos em Destaque
-| Projeto | Descrição | Tecnologias | Links |
-| :--- | :--- | :--- | :--- |
-| **BILI** | Sistema de Gestão de Biblioteca Municipal para Cândido de Abreu. | `Node.js` `PostgreSQL` `JavaScript` | [Repositório](https://github.com/Gu1bas/Bili-Project) |
-| **Pint of Science** | Portal informativo para o festival mundial de divulgação científica. | `HTML5` `CSS3` `GitHub Pages` | [Repositório](https://github.com/Gu1bas/SItePintOfScience) |
-| **GameVerse** | Interface imersiva e responsiva focada no universo gamer. | `HTML5` `CSS3` `Design` | [Repositório](https://github.com/Gu1bas/InterfaceGameVerse) |
-| **Exercícios POO Java** | Exercícios práticos aplicando conceitos de Orientação a Objetos em Java. | `Java` `POO` | [Repositório](https://github.com/Gu1bas/exercicios-poo-java) |
----
-
 ### Estatísticas no GitHub
 
 <div align="center">
