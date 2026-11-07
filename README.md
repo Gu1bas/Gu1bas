@@ -19,22 +19,22 @@
   </a>
 
   <p>
-    📍 <b>Paraná, Brasil</b> | 🎓 <b>IFPR Ivaiporã (4º Semestre)</b> | 💼 <b>Buscando Estágio em Dev / TI</b>
+    <b>Paraná, Brasil</b> | <b>IFPR Ivaiporã (4º Semestre)</b> | <b>Buscando Estágio em Dev / TI</b>
   </p>
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
-- 🎓 Cursando **Bacharelado em Sistemas de Informação** no IFPR - Campus Ivaiporã.
-- 💻 Focado em desenvolvimento **Full Stack**, aprofundando em **Java (POO)** e ecossistema **JavaScript/TypeScript**.
-- 🗄️ Modelagem e persistência com **PostgreSQL** e bancos relacionais.
-- 🎯 Disponível para oportunidades de **Estágio em Desenvolvimento de Software** ou **Suporte Técnico/TI**.
+- Cursando **Bacharelado em Sistemas de Informação** no IFPR - Campus Ivaiporã.
+- Focado em desenvolvimento **Full Stack**, aprofundando em **Java (POO)** e ecossistema **JavaScript/TypeScript**.
+- Modelagem e persistência com **PostgreSQL** e bancos relacionais.
+- Disponível para oportunidades de **Estágio em Desenvolvimento de Software** ou **Suporte Técnico/TI**.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,postgres,html,css,git,github,vscode,bootstrap,nodejs&theme=dark" alt="Tech Stack" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 Estatísticas no GitHub
+### Estatísticas no GitHub
 
 <div align="center">
   <!-- Card de Estatísticas Gerais (Servidor Estável) -->
@@ -71,8 +71,6 @@
 </div>
 
 ---
-
-### 🐍 Snake Contribution Game
 
 <div align="center">
   <picture>
