@@ -25,16 +25,16 @@
 
 ---
 
-### Sobre Mim
+### 🚀 Sobre Mim
 
-- Cursando **Bacharelado em Sistemas de Informação** no IFPR - Campus Ivaiporã.
-- Focado em desenvolvimento **Full Stack**, aprofundando em **Java (POO)** e ecossistema **JavaScript/TypeScript**.
-- Modelagem e persistência com **PostgreSQL** e bancos relacionais.
-- Disponível para oportunidades de **Estágio em Desenvolvimento de Software** ou **Suporte Técnico/TI**.
+- 🎓 Cursando **Bacharelado em Sistemas de Informação** no IFPR - Campus Ivaiporã.
+- 💻 Focado em desenvolvimento **Full Stack**, aprofundando em **Java (POO)** e ecossistema **JavaScript/TypeScript**.
+- 🗄️ Modelagem e persistência com **PostgreSQL** e bancos relacionais.
+- 🎯 Disponível para oportunidades de **Estágio em Desenvolvimento de Software** ou **Suporte Técnico/TI**.
 
 ---
 
-### Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,postgres,html,css,git,github,vscode,bootstrap,nodejs&theme=dark" alt="Tech Stack" />
@@ -54,23 +54,25 @@
 
 ---
 
-### Estatísticas no GitHub
+### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <!-- Card de Estatísticas Gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gu1bas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  <!-- Card de Estatísticas Gerais (Servidor Estável) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gu1bas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="150" alt="GitHub Stats" />
   <!-- Card de Streak / Sequência de Dias Codando -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gu1bas&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gu1bas&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="150" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Top Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1bas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150" alt="Top Languages" />
+  <!-- Top Linguagens Mais Usadas (Servidor Estável) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gu1bas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="140" alt="Top Languages" />
 </div>
 
 ---
+
+### 🐍 Snake Contribution Game
 
 <div align="center">
   <picture>
