@@ -46,10 +46,10 @@
   <summary><b>🔍 Ver detalhes por categoria</b></summary>
   <br>
 
-- **Linguagens & Backend:** Java, JavaScript (ES6+), Node.js
-- **Frontend & Web:** HTML5, CSS3, Bootstrap 5, Manipulação avançada do DOM
+- **Linguagens & Backend:** Java, JavaScript (ES6+)
+- **Frontend & Web:** HTML5, CSS3, Manipulação do DOM
 - **Banco de Dados:** PostgreSQL, Modelagem Relacional, Consultas SQL
-- **Ferramentas & Infra:** Git, GitHub, VS Code, Hardware & Redes
+- **Ferramentas & Infra:** Git, GitHub, VS Code, Hardware
 </details>
 
 ---
